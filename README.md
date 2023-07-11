@@ -21,7 +21,6 @@
   ## :pushpin: Sobre o Projeto <a name="sobre"></a>
   <div>
   <p>Queries em SQL Server dos desafios resolvidos  do curso SQL COMPLETO 2022 (3:50h) do 'Dev Aprender', Foi aprendidos os comandos: SELECT, DISCTINCT, WHERE, COUNT, TOP, ORDER BY, BETWEEN, IN, LIKE, MIN, MAX, SUM, AVG, GROUP BY, HAVING, AS, INNER JOIN, LEFT JOIN, RIGHT JOIN, UNION, SELF JOIN, SUBQUERY, DATEPART, Manipulacao de string, operacoes matematicas, tipo de dados, Chave primaria e estrangeira, CREATE TABLE, INSERT INTO, UPDATE, DELETE, ALTER TABLE, DROP TABLE, CHECK CONSTRAINT, NOT NULL, UNIQUE e VIEWS</p>
-  <img src="https://cdn.cl9.com.br/wp-content/uploads/2020/03/quais-as-diferencas-entre-as-versoes-do-sql-server-p10dnfny4wpoh5oxcvtewb4ezm48eemcycsg2jvhl4.jpg" width="400px">
   </div>
   
 
