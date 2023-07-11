@@ -9,11 +9,9 @@
   
   <p align="center">
     <a href="#sobre">Sobre</a> •
-    <a href="#funcionalidades">Funcionalidades</a> •
-    <a href="#executar">Como executar</a> •
     <a href="#tecnologias">Tecnologias</a> •
     <a href="#contribuidores">Contribuidores</a> •
-    <a href="#contribuir">Como contribuir</a> •
+    <a href="#contribuir">Contribuir</a> •
     <a href="#licenca">Licença</a>
   </p>
   
@@ -21,7 +19,7 @@
 
   ## :pushpin: Sobre o Projeto <a name="sobre"></a>
   <div>
-  <p>Queries em SQL Server dos desafios resolvidos  do curso SQL COMPLETO 2022 (3:50h) do 'Dev Aprender', Foi aprendidos os comandos: SELECT, DISCTINCT, WHERE, COUNT, TOP, ORDER BY, BETWEEN, IN, LIKE, MIN, MAX, SUM, AVG, GROUP BY, HAVING, AS, INNER JOIN, LEFT JOIN, RIGHT JOIN, UNION, SELF JOIN, SUBQUERY, DATEPART, Manipulacao de string, operacoes matematicas, tipo de dados, Chave primaria e estrangeira, CREATE TABLE, INSERT INTO, UPDATE, DELETE, ALTER TABLE, DROP TABLE, CHECK CONSTRAINT, NOT NULL, UNIQUE e VIEWS</p>
+  <p>Queries em SQL Server dos desafios resolvidos  do curso <a href="https://www.youtube.com/watch?v=G7bMwefn8RQ&ab_channel=DevAprender">SQL COMPLETO 2022 (3:50h) do 'Dev Aprender' </a>, Foi aprendidos os comandos: SELECT, DISCTINCT, WHERE, COUNT, TOP, ORDER BY, BETWEEN, IN, LIKE, MIN, MAX, SUM, AVG, GROUP BY, HAVING, AS, INNER JOIN, LEFT JOIN, RIGHT JOIN, UNION, SELF JOIN, SUBQUERY, DATEPART, Manipulacao de string, operacoes matematicas, tipo de dados, Chave primaria e estrangeira, CREATE TABLE, INSERT INTO, UPDATE, DELETE, ALTER TABLE, DROP TABLE, CHECK CONSTRAINT, NOT NULL, UNIQUE e VIEWS</p>
   </div>
   
 
